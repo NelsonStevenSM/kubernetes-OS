@@ -1,4 +1,4 @@
-# Kubernetes-OS
+# Kubernetes-OS y Sistemas Distribuidos
 Proyecto del curso de Sistemas operativos
 
 ### Referencia
