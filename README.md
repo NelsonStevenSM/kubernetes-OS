@@ -1,8 +1,6 @@
 # Kubernetes-OS y Sistemas Distribuidos
 Proyecto del curso de Sistemas operativos
 
-
-
 ### Referencia
 
 - [Development of a distributed computing system based on MapReduce and Kubernetes](https://medium.com/digitalwing/development-of-a-distributed-computing-system-based-on-mapreduce-and-kubernetes-837fc7f112f9)
